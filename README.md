@@ -12,7 +12,7 @@ Portfolio professionnel - Développeur Web en formation
 
 Portfolio professionnel de Marwan Mohammad, développeur web en formation. Ce site présente mon parcours d'apprentissage, mes compétences en développement et mes certifications obtenues.
 
-🌐 **Version Live**: [mamohm.github.io/portfolio](https://mamohm.github.io/portfolio/)
+🌐 **Version Live**: [mamohm.github.io/portfolio](https://mamohm.github.io/Portfolio/)
 
 ## ✨ Caractéristiques
 
